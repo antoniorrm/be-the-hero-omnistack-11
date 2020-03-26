@@ -1,5 +1,5 @@
 import React from "react";
-import { FiLogIn } from "react-icons/fi";
+import { FiArrowLeft } from "react-icons/fi";
 import { Link } from "react-router-dom";
 
 import "./styles.css";
@@ -18,7 +18,7 @@ export default function Register() {
 						casos da sua ONG.
 					</p>
 					<Link className="back-link" to="/">
-						<FiLogIn size={16} color="#E02041" />
+						<FiArrowLeft size={16} color="#E02041" />
 						Não tenho cadastro
 					</Link>
 				</section>
