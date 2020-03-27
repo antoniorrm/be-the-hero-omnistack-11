@@ -1,10 +1,9 @@
 import React from "react";
 import { Feather } from "@expo/vector-icons";
-import { View, FlatList, Image, Text } from "react-native";
+import { View, FlatList, Image, Text, TouchableOpacity } from "react-native";
 
 import logoImg from "../../assets/logo.png";
 import styles from "./styles";
-import { TouchableOpacity } from "react-native-gesture-handler";
 import { useNavigation } from "@react-navigation/native";
 
 export default function Incidents() {
