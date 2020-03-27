@@ -9,10 +9,10 @@ const AppStack = createStackNavigator();
 export default function Routes() {
 	return (
 		<NavigationContainer>
-			<AppStack.Navigation screenOptions={{ headerShown: false }}>
+			<AppStack.Navigator screenOptions={{ headerShown: false }}>
 				<AppStack.Screen name={"Casos"} component={Incidents} />
 				<AppStack.Screen name={"Detalhes"} component={Detail} />
-			</AppStack.Navigation>
+			</AppStack.Navigator>
 		</NavigationContainer>
 	);
 }
