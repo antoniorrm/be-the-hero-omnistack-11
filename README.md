@@ -8,7 +8,7 @@
 
 <p align="center">
   <img alt="Made by Antonio Raimundo" src="https://img.shields.io/badge/madeby-antoniorrm-brightgreen">
-<!--   <img alt="MIT license" src="https://img.shields.io/github/license/antoniorrm/bethehero"> -->
+  <img alt="MIT license" src="https://img.shields.io/github/license/antoniorrm/bethehero">
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/antoniorrm/bethehero">
   <img alt="GitHub stars" src="https://img.shields.io/github/stars/antoniorrm/bethehero">
 </p>
