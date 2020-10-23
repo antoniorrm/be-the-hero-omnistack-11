@@ -7,11 +7,13 @@
 </h4>
 
 <p align="center">
+    
 <img alt="Made by Antonio Raimundo" src="https://img.shields.io/badge/madeby-antoniorrm-brightgreen">
   <img alt="MIT license" src="https://img.shields.io/github/license/antoniorrm/bethehero">
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/antoniorrm/bethehero">
   <img alt="GitHub stars" src="https://img.shields.io/github/stars/antoniorrm/bethehero">
  <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=7159c1&labelColor=000000" alt="PRs welcome!" />
+    
 </p>
 
 <p align="center">
